@@ -1,0 +1,11 @@
+{
+    "resource": {
+        "databricks_notebook": {
+            "databricks_notebook_Users_ankur_nayyar_databricks_com_a": {
+                "language": "SCALA",
+                "path": "/Users/ankur.nayyar@databricks.com/a",
+                "source": "databricks_notebook_Users_ankur_nayyar_databricks_com_a.scala"
+            }
+        }
+    }
+}
