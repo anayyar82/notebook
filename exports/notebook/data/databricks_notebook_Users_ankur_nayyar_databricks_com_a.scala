@@ -2,6 +2,10 @@
 def showProp(prop: String) = println(s"$prop=${spark.conf.get(prop,null)}")
 showProp("spark.databricks.delta.preview.enabled")
 
+afdsafdsf
+fasddsf
+
+
 // COMMAND ----------
 
 // MAGIC %r 
